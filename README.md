@@ -1,4 +1,4 @@
-# 🧬 Jumeau Numérique de Bioréacteur (Bioreactor Digital Twin)
+# 🧬 BioTwin
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)
 ![Dash](https://img.shields.io/badge/Dash-2.14%2B-008080?logo=dash)
