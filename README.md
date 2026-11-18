@@ -16,9 +16,12 @@ Plateforme d'ingénierie des bioprocédés pour le **suivi dynamique en temps r�
 * **Panneau d'Analyse Cinétique Temps Réel** : Graphiques Plotly haute performance intégrant le lissage `uirevision` pour un suivi continu sans sauts d'image ni clignotements.
 * **Pupitre de Commande Opérationnelle** : Ajustement à la volée des régimes d'agitation, du débit d'alimentation du substrat (*Fed-Batch*) et des concentrations entrantes.
 
+<img width="1857" height="816" alt="Animation" src="https://github.com/user-attachments/assets/a60d5dc0-962f-4c47-9dff-23c88f22ad81" />
+## Démonstration de l'interface
 
-  ![Uploading image.png…]()
-
+<p align="center">
+  <img src="assets/demo.gif" alt="Démonstration du simulateur QSP & PK/PD" width="850">
+</p>
 
 ---
 
